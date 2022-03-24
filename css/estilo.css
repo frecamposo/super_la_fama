@@ -1,0 +1,17 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+body{
+    background-color: brown;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: cadetblue;
+    width: 400px;
+
+}
+h1{
+    font-family: fantasy;
+    color: chartreuse;
+}
